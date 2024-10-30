@@ -1,0 +1,12 @@
+.wc-chargeafter-components-payment-method-legacy {
+	line-height: normal;
+}
+
+.wc-chargeafter-components-payment-method-legacy > * {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.wc-chargeafter-components-payment-method-legacy > div {
+	margin-right: 10px;
+}
